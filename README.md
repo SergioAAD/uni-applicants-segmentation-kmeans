@@ -21,7 +21,7 @@ El proyecto está organizado de la siguiente manera para facilitar su revisión 
 
 ## 🚀 Instrucciones de Uso
 
-1.  **Preparación de los Datos:** Asegúrate de que los archivos de Excel se encuentren correctamente ubicados dentro de la carpeta `/data/`.
+1.  **Preparación de los Datos:** Asegúrate de que los archivos de Excel se encuentren correctamente ubicados dentro de la carpeta `/data`.
 2.  **Ejecución:** Ejecuta el script principal de Python de tu preferencia desde la raíz del proyecto.
 3.  **Resultados Alternativos:** Si no dispones del entorno configurado para ejecutar Python, dirígete directamente a la carpeta `/resultadocodigo/` para visualizar los outputs del código en formato PDF, o consulta el informe consolidado en `/docs/Proyecto_4_Segmentacion_Postulantes_UNI.pdf`.
 
